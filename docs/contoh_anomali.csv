@@ -1,0 +1,11 @@
+content,score,label_true,label_bert,bert_conf
+aplikasi yg tidak memihak masyarakat sistem bayarnya juga tidak efisien hanya utk mementingkan satu individu saja.. dan terkena biaya tambahan utk biaya admin,5,positive,negative,0.9954
+"aplikasinya sangat lelet, tolong di tingkat kan lagi, tidak enak sm yg antri klw aplikasi lelet saat di bukak",4,positive,negative,0.9979
+kenapa aplikasinya tidak bisa di buka alias mati sendiri,5,positive,negative,0.941
+buka aplikasi my pertamina lemot,5,positive,negative,0.9961
+semakin maju harus lebih baik BBM jangan sampai telat telat kasihan masyarakat,5,positive,negative,0.9835
+barcode tudak muncul,4,positive,negative,0.8682
+Lebih di Tingkatkan lagi,1,negative,positive,0.936
+aplikasi ruuuuweeeeet puooool,1,negative,positive,0.6421
+sistem scan qr terbaru nya bikin antrean makin jadiiiiiiii laaamaaaa,1,negative,positive,0.9624
+oke,1,negative,positive,0.9063
